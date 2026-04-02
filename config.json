@@ -1,0 +1,9 @@
+{
+  "bot_token": "YOUR_BOT_TOKEN",
+  "tmdb_api_key": "YOUR_TMDB_KEY",
+  "trakt_client_id": "YOUR_TRAKT_CLIENT_ID",
+  "lampac_host": "http://127.0.0.1:9715",
+  "lampac_token": "YOUR_TOKEN",
+  "check_interval_minutes": 60,
+  "tmdb_lang": "ru-RU"
+}
